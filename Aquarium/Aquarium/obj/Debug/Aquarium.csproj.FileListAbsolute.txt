@@ -1,0 +1,13 @@
+/home/dex/RiderProjects/Aquarium/Aquarium/bin/Debug/Aquarium.exe
+/home/dex/RiderProjects/Aquarium/Aquarium/bin/Debug/Aquarium.pdb
+/home/dex/RiderProjects/Aquarium/Aquarium/obj/Debug/Aquarium.csprojAssemblyReference.cache
+/home/dex/RiderProjects/Aquarium/Aquarium/obj/Debug/Aquarium.csproj.CoreCompileInputs.cache
+/home/dex/RiderProjects/Aquarium/Aquarium/obj/Debug/Aquarium.exe
+/home/dex/RiderProjects/Aquarium/Aquarium/obj/Debug/Aquarium.pdb
+C:\Users\пк\Desktop\Практика\Aquarium\Aquarium\bin\Debug\Aquarium.exe.config
+C:\Users\пк\Desktop\Практика\Aquarium\Aquarium\bin\Debug\Aquarium.exe
+C:\Users\пк\Desktop\Практика\Aquarium\Aquarium\bin\Debug\Aquarium.pdb
+C:\Users\пк\Desktop\Практика\Aquarium\Aquarium\obj\Debug\Aquarium.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Практика\Aquarium\Aquarium\obj\Debug\Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Практика\Aquarium\Aquarium\obj\Debug\Aquarium.exe
+C:\Users\пк\Desktop\Практика\Aquarium\Aquarium\obj\Debug\Aquarium.pdb
